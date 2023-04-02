@@ -39,7 +39,7 @@ int main()
     if(n<K){
         cout<<"-1";
     }
-
+  //first
 
     return 0;
 }
